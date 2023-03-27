@@ -1,1 +1,1 @@
-Remove unused variables (#8511)
+Fix Multi-GPU resume bug (#7328)
