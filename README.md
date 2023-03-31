@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Add docs guide terminal images (#8819)
