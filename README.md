@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+YOLOv8 INT8 TFLite Inference Example (#7317)
