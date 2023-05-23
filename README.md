@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Add PR Summary step to Ultralytics Actions (#7675)
