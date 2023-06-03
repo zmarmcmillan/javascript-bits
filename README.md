@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
