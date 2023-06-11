@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Move Google Drive to slow tests (#8163)
