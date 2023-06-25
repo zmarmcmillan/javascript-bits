@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
