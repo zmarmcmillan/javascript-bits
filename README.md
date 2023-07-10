@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Fix TFLite INT8 for OBB (#7989)
