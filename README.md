@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+Update Docs Home and Neural Magic pages (#7243)
