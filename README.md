@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Add HUB-SDK docs (#7775)
