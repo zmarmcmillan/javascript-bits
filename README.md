@@ -1,1 +1,1 @@
-Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
+Add new YOLOv8 OBB model metrics (#7379)
