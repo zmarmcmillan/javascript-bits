@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Update Discord and Contributing Guide URLs (#9270)
