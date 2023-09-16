@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
