@@ -1,1 +1,1 @@
-ultralytics 8.1.4 RTDETR TensorBoard graph visualization fix (#7725)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
