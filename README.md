@@ -1,1 +1,1 @@
-Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
