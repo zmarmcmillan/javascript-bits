@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Fix heatmaps width-height order bug (#7184)
