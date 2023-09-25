@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
