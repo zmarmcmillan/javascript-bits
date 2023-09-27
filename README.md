@@ -1,1 +1,1 @@
-ultralytics 8.1.4 RTDETR TensorBoard graph visualization fix (#7725)
+Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
