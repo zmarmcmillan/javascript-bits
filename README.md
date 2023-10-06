@@ -1,1 +1,1 @@
-fix val each epoch
+Explorer with LanceDB, Actions and Docs updates (#7487)
