@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
