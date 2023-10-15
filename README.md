@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Replace onnx2tf usage from CLI to Python (#8429)
