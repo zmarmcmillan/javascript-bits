@@ -1,1 +1,1 @@
-ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
+Hold failed upload metrics and upload with next upload metrics (#8513)
