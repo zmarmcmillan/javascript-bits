@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Bounding Box to OBB conversion (#7572)
