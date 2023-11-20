@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+ultralytics 8.1.16 OBB ConfusionMatrix support (#8299)
