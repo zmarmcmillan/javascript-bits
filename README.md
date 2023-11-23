@@ -1,1 +1,1 @@
-ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
