@@ -1,1 +1,1 @@
-ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
