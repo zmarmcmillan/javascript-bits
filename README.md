@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
