@@ -1,1 +1,1 @@
-ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
