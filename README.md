@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Add docstrings to new HUB functions (#7576)
