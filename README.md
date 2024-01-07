@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Updated SQL Query Plot Code (#8120)
