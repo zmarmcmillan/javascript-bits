@@ -1,1 +1,1 @@
-ultralytics 8.1.31 NCNN and CLIP updates (#9235)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
