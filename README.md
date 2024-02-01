@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
