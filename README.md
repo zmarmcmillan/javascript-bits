@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
