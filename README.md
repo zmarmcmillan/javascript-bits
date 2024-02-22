@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Feature: Create HUB Models from CLI or Python Script (#7316)
