@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
