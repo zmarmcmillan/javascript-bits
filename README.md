@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
