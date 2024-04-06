@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+ultralytics 8.0.229 add model.embed() method (#7098)
