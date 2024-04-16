@@ -1,1 +1,1 @@
-ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
