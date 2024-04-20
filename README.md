@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Update pyproject.toml and Docs (#7274)
