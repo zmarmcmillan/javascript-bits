@@ -1,1 +1,1 @@
-ultralytics 8.1.13 fix yolo train time= bug (#8179)
+Fix PIL show() and save() (#8202)
