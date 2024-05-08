@@ -1,1 +1,1 @@
-Update YOLOv3 and YOLOv5 YAMLs (#7574)
+Fix Yolo 8.0.206 scale bug (#7821)
