@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Update H1 in Explorer API docs (#7813)
