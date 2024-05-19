@@ -1,1 +1,1 @@
-ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
+ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
