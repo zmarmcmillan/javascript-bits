@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+Add estimate_speed(region_color) parameter (#8285)
