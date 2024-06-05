@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Fix heatmaps width-height order bug (#7184)
