@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+YOLOv8 INT8 TFLite Inference Example (#7317)
