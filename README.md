@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation in obb result (#8188)
+More robust PNNX downloads (#8866)
