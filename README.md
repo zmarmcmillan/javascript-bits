@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Update fraction arg to employ a random selection (#8234)
