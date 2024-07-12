@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+More robust PNNX downloads (#8866)
