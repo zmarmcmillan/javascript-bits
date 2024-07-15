@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
