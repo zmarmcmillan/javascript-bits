@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+ultralytics 8.1.16 OBB ConfusionMatrix support (#8299)
