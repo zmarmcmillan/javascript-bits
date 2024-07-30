@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+ultralytics 8.1.14 new YOLOv8-World models (#8054)
