@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Clarify triton server boolean value (#8532)
