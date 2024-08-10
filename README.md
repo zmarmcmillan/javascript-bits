@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+Add plot_images conf_thresh parameter (#8446)
