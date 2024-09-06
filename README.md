@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+YAML reformat (#7669)
