@@ -1,1 +1,1 @@
-Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
