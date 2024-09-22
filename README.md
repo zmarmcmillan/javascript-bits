@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Expand Model method type hinting (#8279)
