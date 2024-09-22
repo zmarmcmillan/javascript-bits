@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Update format.yml to pull_request_target (#7460)
