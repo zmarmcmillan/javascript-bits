@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+ultralytics 8.1.30 add advanced HUB train arguments (#9110)
