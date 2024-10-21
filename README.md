@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation, swap axis (#8249)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
