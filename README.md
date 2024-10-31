@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+Add dota8.yaml and O tests (#7394)
