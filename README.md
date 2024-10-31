@@ -1,1 +1,1 @@
-ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
+Fix tfjs exports for ARM64 Dockerfile (#8766)
