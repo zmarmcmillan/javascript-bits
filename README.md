@@ -1,1 +1,1 @@
-Fix tfjs exports for ARM64 Dockerfile (#8766)
+Add Amazon Sagemaker Docs integrations page (#7293)
