@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Segment TensorRT batch=3 fix (#7952)
