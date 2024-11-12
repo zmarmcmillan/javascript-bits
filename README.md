@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Update Docs language dropdown height (#6927)
